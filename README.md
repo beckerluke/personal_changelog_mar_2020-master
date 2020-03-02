@@ -17,3 +17,4 @@ This is a personal changelog of my personal growth. This could be anything from 
 - Completed [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java) Fixtures lesson in Unit Testing in Java course
 - Completed 20% of [freeCodeCamp's](https://www.freecodecamp.org/) ES6 section in JavaScript Algorithms and Data Structures Certification
 - Completed Lists and For Loops mission in [Dataquest's](https://www.dataquest.io/) Data Scientist in Python course
+- Projects: Created Form component and added ability to post a description along with exercise name to database
