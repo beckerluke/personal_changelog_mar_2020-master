@@ -18,3 +18,6 @@ This is a personal changelog of my personal growth. This could be anything from 
 - Completed 20% of [freeCodeCamp's](https://www.freecodecamp.org/) ES6 section in JavaScript Algorithms and Data Structures Certification
 - Completed Lists and For Loops mission in [Dataquest's](https://www.dataquest.io/) Data Scientist in Python course
 - Projects: Created Form component and added ability to post a description along with exercise name to database
+
+#### Tuesday, March 3rd, 2020
+- Projects: Created Form components for exercises for individual body parts and added database tables for individual body part exercises. Created placeholder server routes to add exercises to each particular table in database
