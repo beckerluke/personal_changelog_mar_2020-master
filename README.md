@@ -21,3 +21,8 @@ This is a personal changelog of my personal growth. This could be anything from 
 
 #### Tuesday, March 3rd, 2020
 - Projects: Created Form components for exercises for individual body parts and added database tables for individual body part exercises. Created placeholder server routes to add exercises to each particular table in database
+
+#### Wednesday, March 4th, 2020
+- Completed [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java) Using Before to not repeat yourself quiz in Unit Testing in Java course
+- Completed 28% of [freeCodeCamp's](https://www.freecodecamp.org/) ES6 section in JavaScript Algorithms and Data Structures Certification
+- Projects: Created generic Form component to handle the adding of all types of exercises according to body part to the database
