@@ -26,3 +26,7 @@ This is a personal changelog of my personal growth. This could be anything from 
 - Completed [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java) Using Before to not repeat yourself quiz in Unit Testing in Java course
 - Completed 28% of [freeCodeCamp's](https://www.freecodecamp.org/) ES6 section in JavaScript Algorithms and Data Structures Certification
 - Projects: Created generic Form component to handle the adding of all types of exercises according to body part to the database
+
+#### Thursday, March 5th, 2020
+- Completed Variables and Data Types Practice Problems in [Dataquest's](https://www.dataquest.io/) Data Scientist in Python course
+- Projects: Created database tables for individual body parts to hold exercises. Adjusted POST in workout router to take exercises of all kinds and Insert them into correct database table according to type of body part
