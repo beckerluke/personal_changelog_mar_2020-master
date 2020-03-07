@@ -30,3 +30,6 @@ This is a personal changelog of my personal growth. This could be anything from 
 #### Thursday, March 5th, 2020
 - Completed Variables and Data Types Practice Problems in [Dataquest's](https://www.dataquest.io/) Data Scientist in Python course
 - Projects: Created database tables for individual body parts to hold exercises. Adjusted POST in workout router to take exercises of all kinds and Insert them into correct database table according to type of body part
+
+#### Friday, March 6th, 2020
+- Projects: Researched possible ways to select multiple body part exercise tables in one query 
