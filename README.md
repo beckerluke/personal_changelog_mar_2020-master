@@ -33,3 +33,6 @@ This is a personal changelog of my personal growth. This could be anything from 
 
 #### Friday, March 6th, 2020
 - Projects: Researched possible ways to select multiple body part exercise tables in one query 
+
+#### Sunday, March 8th, 2020
+- Completed [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java) The Happy Path and Beyond lesson in Unit Testing in Java course
