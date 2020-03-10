@@ -40,3 +40,6 @@ This is a personal changelog of my personal growth. This could be anything from 
 #### Monday, March 9th, 2020
 - Completed 32% of [freeCodeCamp's](https://www.freecodecamp.org/) ES6 section in JavaScript Algorithms and Data Structures Certification
 - Projects: Fixed workout router query and database name values. Changed router to manipulate data coming back from database
+
+#### Tuesday, March 10th, 2020
+- Completed 42% of [freeCodeCamp's](https://www.freecodecamp.org/) ES6 section in JavaScript Algorithms and Data Structures Certification
