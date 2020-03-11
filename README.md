@@ -44,3 +44,6 @@ This is a personal changelog of my personal growth. This could be anything from 
 #### Tuesday, March 10th, 2020
 - Completed 42% of [freeCodeCamp's](https://www.freecodecamp.org/) ES6 section in JavaScript Algorithms and Data Structures Certification
 - Projects: Converted format of random workout exercise data in workout router into an array of objects to send to client
+
+#### Wednesday, March 11th, 2020
+- Projects: Converted exercise data from database into a more organized array of objects according to each body part exercise name and their description
