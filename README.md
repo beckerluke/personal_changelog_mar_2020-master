@@ -48,3 +48,6 @@ This is a personal changelog of my personal growth. This could be anything from 
 #### Wednesday, March 11th, 2020
 - Completed [TeamTreeHouse's Intermediate Java Track](https://teamtreehouse.com/tracks/intermediate-java) Exceptions lesson in Unit Testing in Java course
 - Projects: Converted exercise data from database into a more organized array of objects according to each body part exercise name and their description
+
+#### Thursday, March 12th, 2020
+- Projects: Debugged workoutSaga not firing off workoutReducer
