@@ -51,3 +51,6 @@ This is a personal changelog of my personal growth. This could be anything from 
 
 #### Thursday, March 12th, 2020
 - Projects: Workout App: Debugged workoutSaga not firing off workoutReducer and created placeholder to render exercise card components for random workout on landing page
+
+#### Friday, March 13th, 2020
+- Projects: Workout App: Created a button for user to click to generate a random full body workout
