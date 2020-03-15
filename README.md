@@ -57,3 +57,6 @@ This is a personal changelog of my personal growth. This could be anything from 
 
 #### Saturday, March 14th, 2020
 - Projects: Workout App: Added button to generate back workout. Created generator function in workoutSaga to handle only back workouts. Adjusted backExercise router to send back four randomly selected back exercises to client to be rendered
+
+#### Sunday, March 15th, 2020
+- Projects: Workout App: Simplified workout saga to be able to fetch a workout by body part. Setup client side to pass body part through query to server. Created route in workout router to fetch workouts by body part. 
