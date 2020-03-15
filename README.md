@@ -54,3 +54,6 @@ This is a personal changelog of my personal growth. This could be anything from 
 
 #### Friday, March 13th, 2020
 - Projects: Workout App: Created a button for user to click to generate a random full body workout
+
+#### Saturday, March 14th, 2020
+- Projects: Workout App: Added button to generate back workout. Created generator function in workoutSaga to handle only back workouts. Adjusted backExercise router to send back four randomly selected back exercises to client to be rendered
