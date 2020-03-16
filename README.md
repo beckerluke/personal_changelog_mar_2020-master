@@ -60,3 +60,6 @@ This is a personal changelog of my personal growth. This could be anything from 
 
 #### Sunday, March 15th, 2020
 - Projects: Workout App: Simplified workout saga to be able to fetch a workout by body part. Setup client side to pass body part through query to server. Created route in workout router to fetch workouts by body part. 
+
+#### Monday, March 16th, 2020
+- Projects: Workout App: Created method on landing page to handle click event for generating workout for each body part
