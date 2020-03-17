@@ -63,3 +63,6 @@ This is a personal changelog of my personal growth. This could be anything from 
 
 #### Monday, March 16th, 2020
 - Projects: Workout App: Created method on landing page to handle click event for generating workout for each body part. Began rebuilding and testing database, server, router architecture
+
+#### Tuesday, March 17th, 2020
+- Projects: Workout App: Modified addExercisePage form by creating a function to handle if form is completely filled out
