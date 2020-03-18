@@ -67,3 +67,7 @@ This is a personal changelog of my personal growth. This could be anything from 
 #### Tuesday, March 17th, 2020
 - Projects: Workout App: Modified addExercisePage form by creating a function to handle if form is completely filled out
 - Revisited and re-completed Lists and For Loops mission in [Dataquest's](https://www.dataquest.io/) Data Scientist in Python course
+
+#### Wednesday, March 18th, 2020
+- Completed If Statements lesson in Conditional Statements mission in [Dataquest's](https://www.dataquest.io/) Data Scientist in Python course
+- Completed 47% of [freeCodeCamp's](https://www.freecodecamp.org/) ES6 section in JavaScript Algorithms and Data Structures Certification
