@@ -76,3 +76,6 @@ This is a personal changelog of my personal growth. This could be anything from 
 - Projects: Workout App: Researched possible queries for potential new database setup
 - Completed 49% of [freeCodeCamp's](https://www.freecodecamp.org/) ES6 section in JavaScript Algorithms and Data Structures Certification
 - Completed Booleans lesson in Conditional Statements mission in [Dataquest's](https://www.dataquest.io/) Data Scientist in Python course
+
+#### Friday, March 20th, 2020
+- Completed The Average Rating of Non-free Apps lesson in Conditional Statements mission in [Dataquest's](https://www.dataquest.io/) Data Scientist in Python course
