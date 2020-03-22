@@ -80,6 +80,6 @@ This is a personal changelog of my personal growth. This could be anything from 
 #### Friday, March 20th, 2020
 - Completed The Average Rating of Non-free Apps lesson in Conditional Statements mission in [Dataquest's](https://www.dataquest.io/) Data Scientist in Python course
 
-#### Friday, March 21st, 2020
+#### Saturday, March 21st, 2020
 - Completed The Average Rating of Gaming Apps lesson in Conditional Statements mission in [Dataquest's](https://www.dataquest.io/) Data Scientist in Python course
 - Projects: Workout App: Tested possible queries for potential new database setup in Postico
