@@ -83,3 +83,6 @@ This is a personal changelog of my personal growth. This could be anything from 
 #### Saturday, March 21st, 2020
 - Completed The Average Rating of Gaming Apps lesson in Conditional Statements mission in [Dataquest's](https://www.dataquest.io/) Data Scientist in Python course
 - Projects: Workout App: Tested possible queries for potential new database setup in Postico
+
+#### Sunday, March 22nd, 2020
+- Projects: Workout App: Simplified query in workout router for the new database setup when fetching random total body workout exercises for each body part
