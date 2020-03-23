@@ -86,3 +86,6 @@ This is a personal changelog of my personal growth. This could be anything from 
 
 #### Sunday, March 22nd, 2020
 - Projects: Workout App: Simplified query in workout router for the new database setup when fetching random total body workout exercises for each body part
+
+#### Monday, March 23rd, 2020
+- Projects: Workout App: Adjusted exerciseCard component on LandingPage to render list of full body workout exercises correctly
