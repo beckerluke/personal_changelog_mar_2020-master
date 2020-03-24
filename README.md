@@ -91,3 +91,6 @@ This is a personal changelog of my personal growth. This could be anything from 
 - Projects: Workout App: Adjusted exerciseCard component on LandingPage to render list of full body workout exercises correctly. Changed name for workout router url get api. Cleaned up exercise card and made basic style adjustment
 - Completed 61% of [freeCodeCamp's](https://www.freecodecamp.org/) ES6 section in JavaScript Algorithms and Data Structures Certification
 - Completed Multiple Conditions lesson in Conditional Statements mission in [Dataquest's](https://www.dataquest.io/) Data Scientist in Python course
+
+#### Tuesday, March 24th, 2020
+- Projects: Workout App: Began building components for recording a full body workout after it is generated
