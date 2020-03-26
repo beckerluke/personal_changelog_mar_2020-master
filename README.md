@@ -97,3 +97,4 @@ This is a personal changelog of my personal growth. This could be anything from 
 
 #### Wednesday, March 25th, 2020
 - Projects: Workout App: Researched dynamically adding multiple input fields in ReactJS for RecordExercise component
+- Completed The or Operator lesson in Conditional Statements mission in [Dataquest's](https://www.dataquest.io/) Data Scientist in Python course
