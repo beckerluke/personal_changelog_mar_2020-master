@@ -94,3 +94,6 @@ This is a personal changelog of my personal growth. This could be anything from 
 
 #### Tuesday, March 24th, 2020
 - Projects: Workout App: Began building components for recording a full body workout after it is generated
+
+#### Wednesday, March 25th, 2020
+- Projects: Workout App: Researched dynamically adding multiple input fields in ReactJS for RecordExercise component
