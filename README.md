@@ -101,3 +101,6 @@ This is a personal changelog of my personal growth. This could be anything from 
 
 #### Thursday, March 26th, 2020
 - Projects: Workout App: Updated query for getting random individual exercises according to body part from database. Updated form for adding exercise to database for new database setup
+
+#### Friday, March 27th, 2020
+- Completed Combining Logical Operators lesson in Conditional Statements mission in [Dataquest's](https://www.dataquest.io/) Data Scientist in Python course
