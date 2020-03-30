@@ -107,3 +107,6 @@ This is a personal changelog of my personal growth. This could be anything from 
 
 #### Saturday, March 28th, 2020
 - Projects: Workout App: Added buttons to generate exercises for each body part on click. Researched the YouTube API and integrating it. 
+
+#### Monday, March 30th, 2020
+- Completed Comparison Operators lesson in Conditional Statements mission in [Dataquest's](https://www.dataquest.io/) Data Scientist in Python course
