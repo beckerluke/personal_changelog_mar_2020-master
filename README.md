@@ -111,3 +111,6 @@ This is a personal changelog of my personal growth. This could be anything from 
 #### Monday, March 30th, 2020
 - Completed Comparison Operators lesson in Conditional Statements mission in [Dataquest's](https://www.dataquest.io/) Data Scientist in Python course
 - Projects: Workout App: Created SearchYouTubeButton component to ping YouTube data API on button click 
+
+#### Thursday, April 2nd, 2020
+- Projects: Workout App: Moved YouTube API GET ping from client side to server side. Created saga for fetching YouTube videos of exercises
