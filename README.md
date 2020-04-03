@@ -117,3 +117,4 @@ This is a personal changelog of my personal growth. This could be anything from 
 
 #### Friday, April 3rd, 2020
 - Projects: Workout App: Sent videoId data from YouTube API back from server to workout saga
+- Completed 68% of [freeCodeCamp's](https://www.freecodecamp.org/) ES6 section in JavaScript Algorithms and Data Structures Certification
