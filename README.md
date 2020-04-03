@@ -114,3 +114,6 @@ This is a personal changelog of my personal growth. This could be anything from 
 
 #### Thursday, April 2nd, 2020
 - Projects: Workout App: Moved YouTube API GET ping from client side to server side. Created saga for fetching YouTube videos of exercises
+
+#### Friday, April 3rd, 2020
+- Projects: Workout App: Sent videoId data from YouTube API back from server to workout saga
