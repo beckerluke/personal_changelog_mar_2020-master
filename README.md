@@ -121,3 +121,4 @@ This is a personal changelog of my personal growth. This could be anything from 
 
 #### Monday, April 6th, 2020
 - Read about [React VR](https://facebook.github.io/react-360/)
+- Projects: Workout App: Created youtubeVideo Reducer to store YouTube data in store from server
