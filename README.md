@@ -125,3 +125,6 @@ This is a personal changelog of my personal growth. This could be anything from 
 
 #### Tuesday, April 7th, 2020
 - Projects: Workout App: Installed react-youtube node package. Worked on client-side rendering of youtube video. 
+
+#### Thursday, April 9th, 2020
+- Projects: Workout App: Created component to render youtube video on page when button is clicked
