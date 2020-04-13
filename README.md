@@ -129,5 +129,8 @@ This is a personal changelog of my personal growth. This could be anything from 
 #### Thursday, April 9th, 2020
 - Projects: Workout App: Created component to render youtube video on page when button is clicked
 
-#### Thursday, April 10th, 2020
+#### Friday, April 10th, 2020
 - Projects: Workout App: Moved placement of rendering YouTube Video on page
+
+#### Monday, April 13th, 2020
+- Projects: Workout App: Began debugging YouTube Video slow rendering problem
